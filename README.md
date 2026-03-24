@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 أهلاً، أنا خليل | Hi, I'm Khalil
 
-<!--
-**KhalilBaza-424/KhalilBaza-424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 طالب هندسة حاسوب (سنة ثالثة) أعمل على تطوير مهاراتي في البرمجة من خلال بناء مشاريع عملية، مع تركيز على **الـ OOP والمنطق البرمجي**.
 
-Here are some ideas to get you started:
+📌 أستخدم GitHub لتوثيق رحلتي في التعلم ومشاركة المشاريع التي أبنيها بنفسي.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 عني | About Me
+
+- 🎓 طالب هندسة حاسوب  
+- 💻 قوي في **C++** وأطبق مفاهيم **OOP** بشكل عملي  
+- 🪟 أطور تطبيقات باستخدام **C# و Windows Forms**  
+- 🧠 أفهم وأستخدم مفاهيم:
+  - Inheritance  
+  - Encapsulation  
+  - Abstraction  
+  - Polymorphism  
+- 🗄️ أتعلم حالياً **قواعد البيانات (SQL Server)** وأعرف أساسيات **SQL** مع ERD و Database Schema  
+- 📈 أركز على التعلم من خلال بناء مشاريع من الصفر  
+- 📸 أشارك أحياناً محتوى برمجي مبسط على إنستغرام  
+
+---
+
+## 🛠️ المهارات | Skills
+
+### 💻 لغات البرمجة
+- C++ (جيد جداً)  
+- C# (جيد)  
+
+### 🗄️ قواعد البيانات
+- SQL Server (أساسيات SQL + ERD و Database Schema قيد التعلم)  
+
+### 🪟 تطوير التطبيقات
+- Console Applications  
+- Windows Forms (.NET)  
+
+### ⚙️ أدوات
+- **Visual Studio Community**  
+- Git & GitHub (مبتدئ)  
+
+---
+
+## 📂 مشاريعي | Projects
+
+### 🖥️ C++ (OOP & Console)
+
+- 🏦 **نظام إدارة بنك**  
+  مشروع مبني باستخدام OOP مع تقسيم منظم للكلاسات وربط البيانات.
+
+- 🎮 **برامج تدريبية**
+  - لعبة حجر ورقة مقص  
+  - تخمين رقم  
+  - مولد كلمات مرور  
+
+---
+
+### 🪟 C# (Windows Forms)
+
+- 🔐 **برنامج تشفير نصوص بسيط**  
+- 📋 **برنامج إدارة مهام**  
+- 🧮 **أدوات حسابية (Calculator / etc)**  
+
+---
+
+## 🎯 أعمل حالياً على
+
+- تعلم وربط **C# مع SQL Server**  
+- بناء مشروع يجمع بين:
+  - واجهة رسومية  
+  - OOP  
+  - Database  
